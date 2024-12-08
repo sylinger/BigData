@@ -386,7 +386,7 @@ b站每个视频的数据，比如播放量、评论数、弹幕数等等都是�
 ### 六、补充说明
 代码文件目录为BigData，数据集也包含在其中。文件目录格式如下：  
 data：存放爬虫得到json文件的路径；  
-html：存放可视化结果的路径，其中index.html集合了其他各个网页的跳转链接；  
+bilibilishow：数据可视化前端代码；  
 static：使用spark得到的分析结果；  
 bilibili_week.txt：对爬虫数据清洗后的数据集，也是最终上传到HDFS的数据集；  
 bilibili_weekly.py：爬虫代码；  
@@ -394,7 +394,6 @@ chineseStopWords.txt：中文停用词，用于对文本进行分词；
 data_analysize1.py：使用spark sql组件分析的代码；  
 data_analysize2.py：使用spark MLlib组件分析的代码；  
 data_process.py：数据处理代码；  
-echarts_show.py：可视化代码；  
 requirements.txt：代码所需的第三方库。  
 image：readme中使用的图库。  
 
@@ -402,5 +401,6 @@ image：readme中使用的图库。
 (1)b站爬虫代码参考：
 https://www.heywhale.com/mw/project/6059c0f0c910a9001581c98b  
 (2)python spark数据分析案例：https://dblab.xmu.edu.cn/blog/2738/  
-(3)pyecharts可视化文档：https://pyecharts.org/#/zh-cn/intro  
+(3)vue文档：[https://pyecharts.org/#/zh-cn/intro  ](https://cn.vuejs.org/guide/introduction.html)
+(4)echarts文档：https://echarts.apache.org/handbook/zh/get-started/
 感谢您查看本文档。如有任何问题，请随时联系我。
