@@ -3,12 +3,12 @@
 ### 学生信息
 #### **学院**: 数据学院
 #### **年级**: 研一
-| 姓名 | 学号 | 分工 |
-|-----|-----|-----|
-| 范心原 | 51275903091 | 统筹设计 github ppt 文档编写 答辩讲解 |
-| 郑兴泽 | 51275903120 | 数据采集及处理 |
-| 邵雅玲| 51275903102 | 环境搭建、spark数据分析 |
-| 陈冰鑫 | 51275903090 | 可视化展示 |
+| 姓名 | 学号 | 分工 | 贡献百分比 |
+|-----|-----|-----|-----|
+| 范心原 | 51275903091 | 统筹设计 github ppt 文档编写 答辩讲解 | 25% |
+| 郑兴泽 | 51275903120 | 数据采集及处理 | 25% |
+| 邵雅玲| 51275903102 | 环境搭建、spark数据分析 | 25% |
+| 陈冰鑫 | 51275903090 | 可视化展示 | 25% |
 ### 目录
 [一、实验目的](#一实验目的)  
 [二、实验环境](#二实验环境)  
@@ -400,9 +400,8 @@ image：readme中使用的图库。
 ### 七、参考资料
 (1)b站爬虫代码参考：
 https://www.heywhale.com/mw/project/6059c0f0c910a9001581c98b  
-(2)python spark数据分析案例：https://dblab.xmu.edu.cn/blog/2738/  
-(3)vue文档：[https://pyecharts.org/#/zh-cn/intro  ](https://cn.vuejs.org/guide/introduction.html)    
-(4)echarts文档：https://echarts.apache.org/handbook/zh/get-started/   
+(2)vue文档：[https://pyecharts.org/#/zh-cn/intro  ](https://cn.vuejs.org/guide/introduction.html)    
+(3)echarts文档：https://echarts.apache.org/handbook/zh/get-started/   
 
 
 感谢您查看本文档。如有任何问题，请随时联系我。
